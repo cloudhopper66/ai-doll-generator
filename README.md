@@ -4,7 +4,7 @@ Transform your photos into beautiful personalized dolls using cutting-edge AI te
 
 ## Live Demo
 
-[Try AI Doll Generator](https://ai-doll-generator.com)
+[Try AI Doll Generator](https://aidollgenerator.net)
 
 ## Description
 
